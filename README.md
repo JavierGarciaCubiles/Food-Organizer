@@ -1,4 +1,3 @@
-# CustomMealPlanner
 # Food Organizer: Personalized Weekly Meal Planner
 
 ## Overview
